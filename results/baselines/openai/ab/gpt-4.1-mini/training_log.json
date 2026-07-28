@@ -1,0 +1,11 @@
+{
+  "paradigm": "openai_baseline",
+  "model": "gpt-4.1-mini",
+  "dataset": "ab",
+  "test_f1": 0.8717948717948718,
+  "test_precision": 0.8385650224215246,
+  "test_recall": 0.9077669902912622,
+  "invalid_generation_rate": 0.0,
+  "runtime": 1233.943303823471,
+  "n_examples": 1916
+}

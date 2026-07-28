@@ -1,0 +1,2192 @@
+{
+  "metadata": {
+    "paradigm": "generative"
+  },
+  "predictions": [
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\u05d5\u05df",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\u05d5\u05df",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\u05d5\u05df",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction no\u3044\u3089\u3063 no",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nno\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 0
+    }
+  ]
+}

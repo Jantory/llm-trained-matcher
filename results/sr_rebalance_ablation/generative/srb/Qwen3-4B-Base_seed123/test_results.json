@@ -1,0 +1,2187 @@
+{
+  "metadata": {
+    "paradigm": "generative"
+  },
+  "predictions": [
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no )\n\n\n\n\n\n\n\nno )\n\n\n\n\n\n\n\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\ufffd\u53d6\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no )\n\n\n\n\n\n\n\nno )\n\n\n\n\n\n\n\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesuseral\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\ufffd\u53d6\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno )",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no )\n\n\n\n\n\n\n\nno )\n\n\n\n\n\n\n\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "nouseral\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "nouseralative\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "nouseralative\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no )\n\n\n\n\n\n\n\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "nouseral\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes )",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\ufffd\u53d6\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno )",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno )",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno )",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0645\u0635\u0627\u0644\u062d\u0629",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "nouseral\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "nouseral\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no )\n\n\n\n\n\n\n\nno )\n\n\n\n\n\n\n\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no )\n\n\n\n\n\n\n\nno )\n\n\n\n\n\n\n\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yesuseralative\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\ufffd\u53d6\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\ufffd\u53d6\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nnointialized",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "nouseralative\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\ufffd\u53d6\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno )",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no )\n\n\n\n\n\n\n\nno )\n\n\n\n\n\n\n\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\ufffd\u53d6\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no )\n\n\n\n\n\n\n\nno )\n\n\n\n\n\n\n\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no )\n\n\n\n\n\n\n\nno )\n\n\n\n\n\n\n\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\ufffd\u53d6\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no )\n\n\n\n\n\n\n\nno )\n\n\n\n\n\n\n\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "nouseralative\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nnointialized",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\ufffd\u53d6\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\ufffd\u53d6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0645\u0635\u0627\u0644\u062d\u0629",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\ufffd\u53d6\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesuseral\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\ufffd\u53d6",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\ufffd\u53d6\n\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    }
+  ]
+}

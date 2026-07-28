@@ -1,0 +1,2077 @@
+{
+  "metadata": {
+    "paradigm": "generative"
+  },
+  "predictions": [
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\u043d\u043e\u0441\u0442\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\u043d\u043e\u0441\u0442\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\u043d\u043e\u0441\u0442\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\ufffd\u53d6\nno ;;^",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nno kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes nuitka\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nno kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nno{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tivar\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes nuitka\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes nuitka\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nno ragaz",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes nuitka\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nno ragaz",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes ragaz\nno respir",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tivar\nno{lng",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno respir",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tivar\nno{lng",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nno ragaz",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno respir",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nno ragaz",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tivar\nno{lng",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tivar\nno{lng",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes nuitka\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nnoaincontri",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nno{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno respir",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{lng",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tivar\nyes\u5b8c\u6574\u70ed",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nnoaincontri",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tivar\nyes\tivar",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno respir",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes ragaz\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nno ragaz",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tivar\nno ragaz",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nnoaincontri",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes ragaz\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nnoaincontri",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nno{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nnoaincontri",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tivar\nno{lng",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tivar\nno{lng",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nno{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nno ragaz",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nno ragaz",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nno ragaz",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{lng",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no nuitka\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\tivar\nno{lng",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno respir",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno respir",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno respir",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno respir",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno{lng",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\ufffd\u53d6\nnochodz\u0105c",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nnochodz\u0105c",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\u043d\u043e\u0441\u0442\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tivaribraci\u00f3n",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes ragaz\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes respir",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes respir",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno{eif",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno reap",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes respir",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes ragaz\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes ragaz\nyes ragaz",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes.success",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes ragaz\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes ragaz\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yesaincontri\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{eif\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes ragaz\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no beurette\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes ragaz\nno ragaz",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no beurette\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes ragaz\nyes{eif",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no beurette\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno{lng",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes{eif\nyes\u786c\u5316",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nnoaincontri",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no ragaz\nno ragaz",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noaincontri\nno spep",
+      "pred": 0,
+      "label": 0
+    }
+  ]
+}

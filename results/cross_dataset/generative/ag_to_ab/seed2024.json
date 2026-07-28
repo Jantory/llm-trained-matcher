@@ -1,0 +1,16 @@
+{
+  "val_f1": 0.8888888888888888,
+  "threshold": null,
+  "test_f1": 0.8816120906801007,
+  "test_precision": 0.9162303664921466,
+  "test_recall": 0.8495145631067961,
+  "test_auroc": null,
+  "invalid_generation_rate": 0.0,
+  "runtime_sec": 85.3876461982727,
+  "paradigm": "generative",
+  "seed": 2024,
+  "source": "ag",
+  "target": "ab",
+  "checkpoint": "/scratch-shared/61600/em-matcher/main_8b/generative/ag/Qwen3-8B-Base_seed2024/best_model",
+  "target_data": "/gpfs/home6/zzhang/em-emb/a-train-matcher/data/cleaned/abt_buy"
+}

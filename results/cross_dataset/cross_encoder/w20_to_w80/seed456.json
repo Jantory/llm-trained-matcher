@@ -1,0 +1,20 @@
+{
+  "val_f1": 0.830622009569378,
+  "val_auroc": 0.9769903333333333,
+  "threshold": 0.917,
+  "test_f1": 0.8246628131021194,
+  "test_precision": 0.7955390334572491,
+  "test_recall": 0.856,
+  "test_auroc": 0.98298325,
+  "threshold_no_sweep": 0.925,
+  "test_f1_no_sweep": 0.8197674418604651,
+  "test_precision_no_sweep": 0.7951127819548872,
+  "test_recall_no_sweep": 0.846,
+  "runtime_sec": 177.32240796089172,
+  "paradigm": "cross_encoder",
+  "seed": 456,
+  "source": "w20",
+  "target": "w80",
+  "checkpoint": "/scratch-shared/61600/em-matcher/main_8b/cross_encoder/w20/Qwen3-8B-Base_seed456/best_model",
+  "target_data": "/gpfs/home6/zzhang/em-emb/a-train-matcher/data/cleaned/wdc80"
+}

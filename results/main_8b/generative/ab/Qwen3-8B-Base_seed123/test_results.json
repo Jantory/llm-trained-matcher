@@ -1,0 +1,9587 @@
+{
+  "metadata": {
+    "paradigm": "generative"
+  },
+  "predictions": [
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes forcanbeconvertedtof",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes forcanbeconvertedtof",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0e34",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes forcanbeconvertedtof\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes forcanbeconvertedtof\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes forcanbeconvertedtof\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes forcanbeconvertedtof\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes forcanbeconvertedtof\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes forcanbeconvertedtof",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0e34",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\ufffd\uc774",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062b",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no forcanbeconvertedtof\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    }
+  ]
+}

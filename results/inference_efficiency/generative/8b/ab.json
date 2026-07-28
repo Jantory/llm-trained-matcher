@@ -1,0 +1,18 @@
+{
+  "n_pairs": 1916,
+  "total_inference_time_s": 22.637216133598123,
+  "total_inference_time_s_repeats": [
+    22.620386668997526,
+    22.465216026001144,
+    22.809413030998257,
+    22.51341046599555,
+    22.777654475998133
+  ],
+  "effective_throughput_pairs_per_s": 84.63938271792509,
+  "peak_gpu_memory_mb": 59520.552734375,
+  "batch_size_used": 512,
+  "paradigm": "generative",
+  "model": "Qwen/Qwen3-8B-Base",
+  "dataset": "ab",
+  "n_repeats": 5
+}

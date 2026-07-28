@@ -1,0 +1,20 @@
+{
+  "val_f1": 0.5582655826558266,
+  "val_auroc": 0.9306506275683402,
+  "threshold": 0.967,
+  "test_f1": 0.5581395348837209,
+  "test_precision": 0.5567010309278351,
+  "test_recall": 0.5595854922279793,
+  "test_auroc": 0.9232778162408433,
+  "threshold_no_sweep": 0.992,
+  "test_f1_no_sweep": 0.43727598566308246,
+  "test_precision_no_sweep": 0.7093023255813954,
+  "test_recall_no_sweep": 0.3160621761658031,
+  "runtime_sec": 35.73919701576233,
+  "paradigm": "cross_encoder",
+  "seed": 2024,
+  "source": "ds",
+  "target": "wa",
+  "checkpoint": "/scratch-shared/61600/em-matcher/main_8b/cross_encoder/ds/Qwen3-8B-Base_seed2024/best_model",
+  "target_data": "/gpfs/home6/zzhang/em-emb/a-train-matcher/data/cleaned/walmart_amazon"
+}

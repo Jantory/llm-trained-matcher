@@ -1,0 +1,18 @@
+{
+  "n_pairs": 4500,
+  "total_inference_time_s": 77.7243381850003,
+  "total_inference_time_s_repeats": [
+    77.8236437329997,
+    77.70274531900031,
+    77.66941668900108,
+    77.75388205300078,
+    77.67200313099966
+  ],
+  "effective_throughput_pairs_per_s": 57.89692270250087,
+  "peak_gpu_memory_mb": 77960.1259765625,
+  "batch_size_used": 512,
+  "paradigm": "cross_encoder",
+  "model": "Qwen/Qwen3-8B-Base",
+  "dataset": "w80",
+  "n_repeats": 5
+}

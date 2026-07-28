@@ -1,0 +1,2192 @@
+{
+  "metadata": {
+    "paradigm": "generative"
+  },
+  "predictions": [
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\tndrfc\n\ud5c0yes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\tndrfc\nyes_^(",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes_pods",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\tndrfc\n\ud5c0yes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes_pods",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\tndrfc\nspnet",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes(initialized",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\n \u043d\u0435\u043b\u044c\u0437",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrineershey",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrineershey",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrineershey",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\n \u043d\u0435\u043b\u044c\u0437",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\n\ud5c0yes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nyes_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\n\ud5c0yes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrineyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nyes_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrineyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrineyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nspnet of",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\ntra\u00een\u00e9ment",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nyes_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\n\ud5c0yes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\n\ud5c0yes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nyes_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nyes_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\n\ud5c0yes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nyes\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nyes\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nspnet of",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:variables",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nyes\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nyes_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrineyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\n%timeout",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nyes_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nyes_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\n\ud5c0",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nyes_^(",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrineyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\ud5c0",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nno\tndrfc",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\tndrfc\nyes\tndrfc",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrineyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrineyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrineyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrinespnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nspnet",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrineyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\tndrfc\nctrine:both",
+      "pred": 0,
+      "label": 0
+    }
+  ]
+}

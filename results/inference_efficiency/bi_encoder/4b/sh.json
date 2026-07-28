@@ -1,0 +1,37 @@
+{
+  "n_pairs": 414,
+  "n_unique_a": 369,
+  "n_unique_b": 341,
+  "n_unique_total": 710,
+  "entity_encode_time_s": 3.770849405400804,
+  "entity_encode_time_s_repeats": [
+    3.7540729059983278,
+    3.5954672070001834,
+    3.706168417003937,
+    3.5740663510005106,
+    4.224472146001062
+  ],
+  "similarity_time_s": 0.0008929554023779929,
+  "similarity_time_s_repeats": [
+    0.0012896560001536272,
+    0.000868817005539313,
+    0.0007091880033840425,
+    0.0007784280023770407,
+    0.0008186880004359409
+  ],
+  "total_inference_time_s": 3.771742360803182,
+  "total_inference_time_s_repeats": [
+    3.7553625619984814,
+    3.5963360240057227,
+    3.706877605007321,
+    3.5748447790028877,
+    4.225290834001498
+  ],
+  "effective_throughput_pairs_per_s": 109.76359475195963,
+  "peak_gpu_memory_mb": 42642.67529296875,
+  "batch_size_used": 8192,
+  "paradigm": "bi_encoder",
+  "model": "Qwen/Qwen3-Embedding-4B",
+  "dataset": "sh",
+  "n_repeats": 5
+}

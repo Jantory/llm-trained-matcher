@@ -1,0 +1,37 @@
+{
+  "n_pairs": 414,
+  "n_unique_a": 369,
+  "n_unique_b": 341,
+  "n_unique_total": 710,
+  "entity_encode_time_s": 0.16839112260058756,
+  "entity_encode_time_s_repeats": [
+    0.1703877640029532,
+    0.16763725400232943,
+    0.16834158900019247,
+    0.16718203799973708,
+    0.1684069679977256
+  ],
+  "similarity_time_s": 0.00039127479976741597,
+  "similarity_time_s_repeats": [
+    0.0006305450006038882,
+    0.0003139869986625854,
+    0.0003167369977745693,
+    0.00031704800130683,
+    0.000378057000489207
+  ],
+  "total_inference_time_s": 0.16878239740035497,
+  "total_inference_time_s_repeats": [
+    0.17101830900355708,
+    0.167951241000992,
+    0.16865832599796704,
+    0.1674990860010439,
+    0.1687850249982148
+  ],
+  "effective_throughput_pairs_per_s": 2452.8624215354894,
+  "peak_gpu_memory_mb": 2623.26416015625,
+  "batch_size_used": 8192,
+  "paradigm": "sbert",
+  "model": "sentence-transformers/stsb-roberta-base-v2",
+  "dataset": "sh",
+  "n_repeats": 5
+}

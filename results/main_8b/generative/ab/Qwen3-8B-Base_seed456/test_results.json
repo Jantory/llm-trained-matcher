@@ -1,0 +1,9587 @@
+{
+  "metadata": {
+    "paradigm": "generative"
+  },
+  "predictions": [
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno$postalcodesnl",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n.absoluteconstraints",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\u59cb\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u043f\u043e\u043d\u0440\u0430\u0432\u0438 yes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u043f\u043e\u043d\u0440\u0430\u0432\u0438 yes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n.absoluteconstraints",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\u59cb\u5316",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\u59cb\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\u59cb\u5316\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u043f\u043e\u043d\u0440\u0430\u0432\u0438",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0627\u0644\u0627\u0633\u062a\u062bno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\u59cb\u5316\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\tno.absoluteconstraints",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\u59cb\u5316\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n.absoluteconstraints",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\u59cb\u5316\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\tno\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\u59cb\u5316\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\u59cb\u5316\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\u59cb\u5316\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n.absoluteconstraints",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\u59cb\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\u59cb\u5316",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd\u59cb\u5316",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\u59cb\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\tno\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\u59cb\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u043f\u043e\u043d\u0440\u0430\u0432\u0438",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\tno\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n\tno\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u0628\u0627\u0644\u0625\u0636 yes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\u59cb\u5316\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno forcanbeconvertedtof",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffdrawid\u0142ow\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno$postalcodesnl",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\u59cb\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffdrawid\u0142ow\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd\u59cb\u5316",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\n \u043f\u043e\u043d\u0440\u0430\u0432\u0438",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes\u3044\u3089\u3063",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\ufffd\nyes\ufffd",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\u59cb\u5316\nyes.absoluteconstraints",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\ufffd\n \u0628\u0627\u0644\u0625\u0636",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\tno\ufffd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\ufffd\n\u0432\u0448\u0438\u0441\ufffd\u043e\u0442",
+      "pred": 0,
+      "label": 0
+    }
+  ]
+}

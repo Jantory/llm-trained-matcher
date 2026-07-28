@@ -1,0 +1,18 @@
+{
+  "n_pairs": 5742,
+  "total_inference_time_s": 1.3483281901993904,
+  "total_inference_time_s_repeats": [
+    1.5354080780016375,
+    1.2567901229995186,
+    1.3908246479986701,
+    1.3131603769979847,
+    1.2454577249991416
+  ],
+  "effective_throughput_pairs_per_s": 4258.607097097684,
+  "peak_gpu_memory_mb": 17685.6787109375,
+  "batch_size_used": 8192,
+  "paradigm": "ditto",
+  "model": "roberta-base",
+  "dataset": "ds",
+  "n_repeats": 5
+}

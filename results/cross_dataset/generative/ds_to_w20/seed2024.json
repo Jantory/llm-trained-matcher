@@ -1,0 +1,16 @@
+{
+  "val_f1": 0.3355263157894737,
+  "threshold": null,
+  "test_f1": 0.42790697674418604,
+  "test_precision": 0.9517241379310345,
+  "test_recall": 0.276,
+  "test_auroc": null,
+  "invalid_generation_rate": 0.0,
+  "runtime_sec": 255.8711678981781,
+  "paradigm": "generative",
+  "seed": 2024,
+  "source": "ds",
+  "target": "w20",
+  "checkpoint": "/scratch-shared/61600/em-matcher/main_8b/generative/ds/Qwen3-8B-Base_seed2024/best_model",
+  "target_data": "/gpfs/home6/zzhang/em-emb/a-train-matcher/data/cleaned/wdc20"
+}

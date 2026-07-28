@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# SLURM logs
+scripts/test/logs/
+logs/
+*.out
+*.err
+
+# W&B
+wandb/
+
+# Results (generated outputs — commit selectively if needed)
+# results/
+
+# HuggingFace cache (if accidentally placed in project dir)
+.cache/
+

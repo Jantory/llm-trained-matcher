@@ -1,0 +1,16 @@
+{
+  "val_f1": 0.757201646090535,
+  "threshold": null,
+  "test_f1": 0.7784946236559139,
+  "test_precision": 0.6654411764705882,
+  "test_recall": 0.9378238341968912,
+  "test_auroc": null,
+  "invalid_generation_rate": 0.0,
+  "runtime_sec": 76.63987326622009,
+  "paradigm": "generative",
+  "seed": 789,
+  "source": "ab",
+  "target": "wa",
+  "checkpoint": "/scratch-shared/61600/em-matcher/main_8b/generative/ab/Qwen3-8B-Base_seed789/best_model",
+  "target_data": "/gpfs/home6/zzhang/em-emb/a-train-matcher/data/cleaned/walmart_amazon"
+}

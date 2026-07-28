@@ -1,0 +1,20 @@
+{
+  "val_f1": 0.5806451612903226,
+  "val_auroc": 0.5925549579915239,
+  "threshold": 0.176,
+  "test_f1": 0.52734375,
+  "test_precision": 0.38243626062322944,
+  "test_recall": 0.8490566037735849,
+  "test_auroc": 0.5718707608829696,
+  "threshold_no_sweep": 0.852,
+  "test_f1_no_sweep": 0.024691358024691357,
+  "test_precision_no_sweep": 0.6666666666666666,
+  "test_recall_no_sweep": 0.012578616352201259,
+  "runtime_sec": 14.079418420791626,
+  "paradigm": "bi_encoder",
+  "seed": 2024,
+  "source": "ds",
+  "target": "sh",
+  "checkpoint": "/scratch-shared/61600/em-matcher/main_8b/bi_encoder/ds/Qwen3-Embedding-8B_seed2024/best_model",
+  "target_data": "/gpfs/home6/zzhang/em-emb/a-train-matcher/data/cleaned/semi-heter"
+}

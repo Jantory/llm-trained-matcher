@@ -1,0 +1,18 @@
+{
+  "n_pairs": 2473,
+  "total_inference_time_s": 9.765908595998189,
+  "total_inference_time_s_repeats": [
+    9.756240456998057,
+    9.768817593998392,
+    9.788178431001143,
+    9.759785744994588,
+    9.756520752998767
+  ],
+  "effective_throughput_pairs_per_s": 253.22784620504947,
+  "peak_gpu_memory_mb": 72097.40283203125,
+  "batch_size_used": 1024,
+  "paradigm": "generative",
+  "model": "Qwen/Qwen3-0.6B-Base",
+  "dataset": "rt",
+  "n_repeats": 5
+}

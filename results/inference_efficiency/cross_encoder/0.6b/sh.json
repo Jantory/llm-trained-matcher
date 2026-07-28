@@ -1,0 +1,18 @@
+{
+  "n_pairs": 414,
+  "total_inference_time_s": 1.2100366098020459,
+  "total_inference_time_s_repeats": [
+    1.2109406490053516,
+    1.2105749000038486,
+    1.2095110039954307,
+    1.2094075830027577,
+    1.2097489130028407
+  ],
+  "effective_throughput_pairs_per_s": 342.1384085789997,
+  "peak_gpu_memory_mb": 24102.767578125,
+  "batch_size_used": 8192,
+  "paradigm": "cross_encoder",
+  "model": "Qwen/Qwen3-0.6B-Base",
+  "dataset": "sh",
+  "n_repeats": 5
+}

@@ -1,0 +1,2077 @@
+{
+  "metadata": {
+    "paradigm": "generative"
+  },
+  "predictions": [
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nboth two",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes d\u00e9sorm\u05e4\u05d5\u05ea:\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno beurette",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nboth the",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{lng\nyes kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes{lng\nyes kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes{lng\nno(predict",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes d\u00e9sorm\u05e4\u05d5\u05ea\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes d\u00e9sorm\u05e4\u05d5\u05ea\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes{lng\nyes{lng",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno{eif",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\tivar\nno beurette",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\tivar\nnoyalty",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes d\u00e9sorm\u05e4\u05d5\u05ea\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\tivar\nnoyalty",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\tivar\nnoyalty",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\tivar\nnoyalty",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the price",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized): no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no{eif",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes d\u00e9sorm\u05e4\u05d5\u05ea\nno",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes{lng\nyes\u0627\u0631\u0629",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{lng\nyes{eif",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the title",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes{lng\nyes kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\tivar\nno beurette",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\tivar\nno\u5747\u4f7f\u5176",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\tivar\nno\u5747\u4f7f\u5176",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes d\u00e9sorm\u05e4\u05d5\u05ea\nno",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\tivar\nno beurette",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the title",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes d\u00e9sorm\u05e4\u05d5\u05ea\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nyes d\u00e9sorm",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no spep\nno{eif",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized by the fact",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes d\u00e9sorm\u05e4\u05d5\u05ea\nyes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no(initialized) no(initialized",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no d\u00e9sorm\u05e4\u05d5\u05ea\nno",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{lng\nyes kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{lng\nyes kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{lng\nyes kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes{lng\nyes kinstruction",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u5747\u4f7f\u5176",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno beurette",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no d\u00e9sorm\u05e4\u05d5\u05ea\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno beurette",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno beurette",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes kinstruction\nyes d\u00e9sorm",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "noyalty\nnoyalty",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno{eif",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no d\u00e9sorm\u05e4\u05d5\u05ea\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no d\u00e9sorm\u05e4\u05d5\u05ea\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no d\u00e9sorm\u05e4\u05d5\u05ea\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno\u5b8c\u6574\u70ed",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes kinstruction\nno d\u00e9sorm",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\u5b8c\u6574\u70ed\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno\u65b0\u4eba\u73a9\u5bb6",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno kinstruction",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no kinstruction\nno fetisch",
+      "pred": 0,
+      "label": 0
+    }
+  ]
+}

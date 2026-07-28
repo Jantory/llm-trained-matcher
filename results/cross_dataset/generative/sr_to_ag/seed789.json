@@ -1,0 +1,16 @@
+{
+  "val_f1": 0.6251851851851852,
+  "threshold": null,
+  "test_f1": 0.649546827794562,
+  "test_precision": 0.5023364485981309,
+  "test_recall": 0.9188034188034188,
+  "test_auroc": null,
+  "invalid_generation_rate": 0.0,
+  "runtime_sec": 73.00553560256958,
+  "paradigm": "generative",
+  "seed": 789,
+  "source": "sr",
+  "target": "ag",
+  "checkpoint": "/scratch-shared/61600/em-matcher/main_8b/generative/sr/Qwen3-8B-Base_seed789/best_model",
+  "target_data": "/gpfs/home6/zzhang/em-emb/a-train-matcher/data/cleaned/amazon_google"
+}
