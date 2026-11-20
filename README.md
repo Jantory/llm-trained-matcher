@@ -79,6 +79,7 @@ organized by experiment group:
 
 - `main_0.6b/`, `main_4b/`, `main_8b/` — main results at each model scale, for
   all three paradigms (`bi_*`, `cross_*`, `gen_*`) across all datasets/seeds.
+- `family_ext` - extended results to include different model families
 - `lr_sweep_0.6b/`, `lr_sweep_4b/`, `lr_sweep_8b/` — learning-rate sweeps per scale.
 - `ft_ablation/` — full fine-tuning vs. LoRA ablations, plus the geometry-probe launcher.
 - `cross_dataset/` — cross-dataset transfer runs, one script per seed.
