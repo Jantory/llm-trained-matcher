@@ -22,6 +22,16 @@ DATASET_ALIASES = {
     "src": "semi-rel_core",    # free-text-blob ablation: also drop Cast (relational core only)
     "srb": "semi-rel_rebalanced",  # title-collision rebalancing ablation (same pairs, re-split)
     "shb": "semi-heter_rebalanced",  # dialect-combination rebalancing ablation (same pairs, re-split)
+    # Independent replicates of sh / sr built from their unlabeled entity tables
+    # (data/create_{sh,sr}_replicates.py): same split structure, new pairs; *b = balanced control.
+    "sh1": "semi-heter_rep1",
+    "sh2": "semi-heter_rep2",
+    "sh1b": "semi-heter_rep1_balanced",
+    "sh2b": "semi-heter_rep2_balanced",
+    "sr1": "semi-rel_rep1",
+    "sr2": "semi-rel_rep2",
+    "sr1b": "semi-rel_rep1_balanced",
+    "sr2b": "semi-rel_rep2_balanced",
 }
 
 DATASET_PATHS = {
