@@ -1,0 +1,10252 @@
+{
+  "metadata": {
+    "paradigm": "generative"
+  },
+  "predictions": [
+    {
+      "generated": "no\n\u0432\u0430\u0440\u0430\u30e9\u30c3\u30af\u30b9",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna\u0631\u064a\u0643\u064a",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused821>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes\u0441\u0442\u0440\u0443",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\notra fa\u00e7ons",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nvest \u043d\u0430\u0434\u0435\u044e\u0441\u044c",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna\u30bf\u30eb",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra editorial",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra fa\u00e7ons",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra fa\u00e7ons",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna fabricaci\u00f3n",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274toshow",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes<unused821>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\notra fa\u00e7ons",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra editorial",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\notra editorial",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\n dirinyagetminutes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes\u0441\u0442\u0440\u0443",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\n dirinyagetminutes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\notra frases",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274toshow",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra fa\u00e7ons",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra fa\u00e7ons",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes\u0441\u0442\u0440\u0443",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\n jam\u00e1ssupply",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna\u0631\u06cc\u0632",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessunaplanilla",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274r\u00e9f\u00e9rences",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\notra frases",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes\u0441\u0442\u0440\u0443",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyeswb",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused821>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\notra editorial",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyesounce",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274ocarcinoma",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\n dirinyagetminutes",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u0432\u0430\u0440\u0430\u30e9\u30c3\u30af\u30b9",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274\u2069",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna fabricaci\u00f3n",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\n\u7274\u2069",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\n jam\u00e1sposs",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nomencl tenang",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna\u0631\u06cc\u0632",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\n\u7274ocarcinoma",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes\u0441\u0442\u0440\u0443",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274 lucknow",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna richied",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nvest\u0bbf\u0b9f\u0bae\u0bcd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\n\u7274toshow",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes\u0441\u0442\u0440\u0443",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274ocarcinoma",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra fa\u00e7ons",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna\u0631\u06cc\u0632",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra fa\u00e7ons",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274toshow",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra fa\u00e7ons",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notrapopular",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nvest\u0bbf\u0b9f\u0bae\u0bcd",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes \u1ea9n",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u0432\u0430\u0440\u0430ketika",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused821>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notrapopular",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n jam\u00e1s inaug",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1883>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessunaisset",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna richied",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused821>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u00f3ra \u0965",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n \u062d\u0627\u062c neglects",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274 \u043c\u0430\u044f",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna\u0631\u06cc\u0632",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274ocarcinoma",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessunacares",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n excessivelyasteroid",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\notra fa\u00e7ons",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u00f3ra crevices",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274\u30d0\u30f3",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\n excessivelyasteroid",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes \u1ea9n",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u00f3ra crevices",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274r\u00e9f\u00e9rences",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes\u0441\u0442\u0440\u0443",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274toshow",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274r\u00e9f\u00e9rences",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra fa\u00e7ons",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\n jam\u00e1sposs",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna\u0431\u0456\u0440",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notrapopular",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u00f3ra crevices",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna richied",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes\u0441\u0442\u0440\u0443",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes\u0441\u0442\u0440\u0443",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\notra editorial",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274ocarcinoma",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1037>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274 numquam",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n prossimoounce",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessunaisset",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u00f3ra crevices",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes parish",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessunaisset",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n excessivelyasteroid",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nnobtns",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u0432\u0430\u0440\u0430ketika",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna richied",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra fa\u00e7ons",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyesunderland",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna fabricaci\u00f3n",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna\u0631\u06cc\u0632",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\n jam\u00e1sposs",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\n\u00f3ra crevices",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n nessuna\uc74c",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u0432\u0430\u0440\u0430ketika",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra inspiration",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes<unused1237>",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274 lucknow",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "yes\n dirinyagetminutes",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra fa\u00e7ons",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u7274\u30d0\u30f3",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\n\u661f\u5ea7\u65f6\u7684",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes<unused1421>",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra _$",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "yes\nyes +:+",
+      "pred": 1,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notraindependence",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra operands",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nno",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\notra civilizations",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 0
+    },
+    {
+      "generated": "no\nyes",
+      "pred": 0,
+      "label": 1
+    }
+  ]
+}
